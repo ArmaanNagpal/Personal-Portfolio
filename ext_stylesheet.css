@@ -1,0 +1,10 @@
+.txt1{font-family: 'Tourney', cursive;}
+.txt2{font-family: 'Labrada', serif;}
+.eff:hover {transform: scaleX(0.5);transform: scaleY(1.5);}
+.fl{float:left;text-shadow:4px 6px black;}
+.skls img{width: 85%;}
+.ts{text-shadow:4px 4px black;}
+.skl{margin-top: 2rem;margin-bottom: 2rem;text-shadow:4px 4px black;}
+.c1{position: relative;margin-top:50px; border: 2px solid black;width: 700px;
+padding: 20px;border-radius: 10px;font-family: 'Labrada', serif;font-size: larger;box-shadow: 5px 5px 5px;}
+#sbtn{width: 100px;font-size: larger; padding: 5px;box-shadow:1px 1px 1px; }
